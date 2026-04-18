@@ -1,8 +1,1 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-.venv/
-env/
-venv/
-.streamlit/config.toml
+streamlit==1.32.0
